@@ -1,7 +1,7 @@
 cask "easy-openclaw" do
   version "0.1.0"
-  sha256 arm:   "03ecdd406d42e881a3c4131a9142ce9900ab81db503d2ec08ffaa97ba910fedf",
-         intel: "755748932aa45c0914038bcd35b1b92e278c87038d13d8ed276d33748bcb3a65"
+  sha256 arm:   "9dd3950344d4d46c6b12ac48d95eabb94643279a86a240015524e50f3a3df9c3",
+         intel: "07752d39de0ac6fef3a9b99df44606e0a6eae5f6ef70dfd5c928fd297f1003fb"
 
   on_arm do
     url "https://github.com/alittleshine/homebrew-easy-openclaw/releases/download/v#{version}/easy-openclaw_#{version}_aarch64.dmg",
