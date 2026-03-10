@@ -1,6 +1,6 @@
 cask "easy-openclaw" do
   version "0.1.0"
-  sha256 "f512465154afef16eb278d05a6ea94b0d57723054543b96d6911f7efff14f636"
+  sha256 "7af28d926c61f78eaefd37cf3adb2c40a37d3f40bcf1df0b809bcf13d6ce7088"
 
   url "https://gh-proxy.com/https://github.com/alittleshine/homebrew-easy-openclaw/releases/download/v#{version}/easy-openclaw_#{version}_aarch64.dmg"
 
